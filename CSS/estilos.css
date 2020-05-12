@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://imagens.ebc.com.br/5PW0Ks5vyfgazEqgyIrFChJ1kAw=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/stsci-h-p2016a-m-2000x1374.png?itok=_0kA63O8);
+    background-size:1350px}
+  .menu li{
+    list-style: none;}
+  .menu ul {
+    display: flex;
+    justify-content: space-around;}
+  a{
+    text-decoration:none;
+    color:blue;}
+  a:hover{
+    text-decoration:underline;}
+  .site-title{
+    text-align:center;
+    font-family:Algerian;
+    color:beige;}
+  .site-subtitle{
+    text-align:center;
+    color:beige;
+    font-family:MV Boli;}
+  
